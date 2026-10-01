@@ -1,0 +1,10 @@
+.env
+*.db
+*.db-shm
+*.db-wal
+atiaatashin
+launcher
+data/
+logs/
+*-backup-*.json
+node_modules/
